@@ -28,8 +28,8 @@
 
 
 
-  .breadcrump li:after{ content:" /"; }
-  .breadcrump li:last-child:after{content:none;}
+  .breadcrumb li:after{ content:" /"; }
+  .breadcrumb li:last-child:after{content:none;}
   .bloglabel li:after{ content:" |"; }
   .bloglabel li:last-child:after{content:none;}
 

@@ -18,7 +18,7 @@
   a{color:var(--wordcolor);}
   a:visited{color:var(--brandcolor);}
   a:hover{color:var(--linkcolor);}
-  a:visited:hover{color:var(--linkcolor);}
+  a:visited:hover,a:visited:hover{color:var(--linkcolor);}
   
   .note{border:var(--border);padding:0.5rem 1rem;}
   .note.top{border-bottom:0;padding-bottom:0;}

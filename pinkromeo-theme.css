@@ -40,6 +40,14 @@
 
   .widget{margin: 0;}
 
+   .logo img{
+      width:100%;
+      max-height:200px;
+      object-fit:cover;
+      object-position:0% 0%;
+     }      
+
+
   /* usage
   .container.note ...
   or

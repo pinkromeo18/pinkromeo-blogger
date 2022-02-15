@@ -16,8 +16,8 @@
   }
   body{background:var(--backcolor);color:var(--wordcolor);}
   a{color:var(--wordcolor);}
-  a:hover{color:var(--linkcolor);}
   a:visited{color:var(--brandcolor);}
+  a:hover{color:var(--linkcolor);}
   
   .note{border:var(--border);padding:0.5rem 1rem;}
   .note.top{border-bottom:0;padding-bottom:0;}
